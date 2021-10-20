@@ -86,6 +86,11 @@ code block
 
 ~~The world is flat.~~
 
+### check box
 - [x] Write the press releas
 - [ ] Update the website
 - [ ] Contact the media
+
+
+### typographic replacements
+(c) (C) (R) (tm) (TM) (p) (P) +-
