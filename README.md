@@ -104,3 +104,10 @@ code block
 > blockquote
 >> ds
 
+>Classic markup: :wink: :cry: :laughing: :yum:
+>
+>Shortcuts (emoticons): :-) :-( 8-) ;-)
+
+### Subscript / Superscript
+- 19^th^
+- H~2~O
