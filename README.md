@@ -50,6 +50,12 @@ this is horizontal line
 | Paragraph | Text |
 | apple | Banana |
 
+### Table Right align
+| syntax | Descroption |
+| -----------: | -----------: | 
+| Header | Title |
+| Paragraph | Text |
+| apple | Banana |
 ```c
 #include <stdio.h>
 int main(){
@@ -94,3 +100,7 @@ code block
 
 ### typographic replacements
 (c) (C) (R) (tm) (TM) (p) (P) +-
+
+> blockquote
+>> ds
+
