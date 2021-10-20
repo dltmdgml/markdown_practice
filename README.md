@@ -41,3 +41,51 @@ this is horizontal line
 
 ### image
 ![image](image.jpg)
+
+---
+### Table
+| syntax | Descroption |
+| ----------- | ----------- | 
+| Header | Title |
+| Paragraph | Text |
+| apple | Banana |
+
+```c
+#include <stdio.h>
+int main(){
+    printf("hello world!");
+}
+```
+
+```javascript
+function func(){
+    var a = 'AAA';
+    return a;
+}
+```
+
+```css
+.list > li {
+    position: absolute;
+    top: 40px;
+}
+```
+
+```bash
+$ vim ./~zshrc
+```
+
+```python
+s = "Python syntax highlighting"
+print s
+```
+
+```
+code block
+```
+
+~~The world is flat.~~
+
+- [x] Write the press releas
+- [ ] Update the website
+- [ ] Contact the media
